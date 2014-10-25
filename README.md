@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
@@ -326,6 +325,4 @@ Vimscript mappings:
 * [Folding in Vim](http://amix.dk/blog/post/19132#Folding-in-Vim)
 * [
 Zen room for Vim: Focusing only on the essential](http://amix.dk/blog/post/19744#zenroom-for-Vim-Focsuing-only-on-the-essential)
-=======
-vimrc
 
